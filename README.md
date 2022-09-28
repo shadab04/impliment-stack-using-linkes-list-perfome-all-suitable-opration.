@@ -1,0 +1,1 @@
+# impliment-stack-using-linkes-list-perfome-all-suitable-opration.
